@@ -1,0 +1,205 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Arial';
+  display: block;
+}
+
+.top-container {
+  background-color: #f7e8e8;
+  position: relative;
+  padding-top: 100px;
+}
+
+.top-floral, .bottom-floral {
+  width: 150px;
+}
+
+.top-floral {
+    position: relative;
+    top:45px;
+    left:330px;
+}
+
+.bottom-floral {
+  position: relative;
+  top:45px;
+  right: 330px;
+}
+
+
+
+h1 {
+  font-size: 5.625rem;
+  font-family: 'Annie Use Your Telescope', cursive;
+  color: #FF6075;
+  margin: 0 auto 0 auto;
+}
+
+.subtitle {
+  font-family: 'Cedarville Cursive', cursive;
+  font-size: 2.5rem;
+  font-weight: normal;
+  color: #66BFBF;
+}
+
+.profile-pic {
+  width:200px;
+  position:relative;
+  left: 195px;
+  bottom: 90px;
+
+}
+
+.wreath {
+  width: 400px;
+  position: relative;
+  right: 110px;
+
+}
+
+
+h2 {
+  font-family: 'The Girl Next Door', cursive;
+  color: #66BFBF;
+  font-size: 25px;
+}
+
+.green {
+  width: 8%;
+
+}
+
+.headline {
+  font-family: 'Annie Use Your Telescope', cursive;
+  font-size: 20px;
+  color: #40514E;
+  width: 30%;
+  margin:auto;
+}
+
+
+
+h3 {
+  font-family: 'Cedarville Cursive', cursive;
+  color: #11999E;
+  font-size:20px;
+
+}
+
+
+
+
+.middle-container {
+  margin: 100px 0px;
+}
+
+
+p {
+  font-family: 'Open Sans', Arial, sans-serif;
+  font-size: 14px;
+  line-height: 2;
+
+
+
+
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+  overflow:auto
+
+}
+
+
+.design-img {
+ width: 25%;
+ float: left;
+ margin-right: 30px;
+}
+
+.empathy-img {
+ width: 25%;
+ float: right;
+ margin-left: 30px;
+ border-radius: 50px;
+
+}
+
+
+
+
+
+.pro {
+  text-decoration: underline;
+}
+
+
+
+.logo {
+  height: 20px;
+  width: 20px;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 8px;
+  font-family: serif;
+  color: #ffffff;
+  font-size: 21px;
+  font-weight:100;
+  padding:10px 20px 10px 20px;
+  text-decoration: none;
+  display:inline-block;
+  cursor: pointer;
+
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+
+.bottom-container {
+  background-color:#f7e8e8;
+  padding: 50 0 20px;
+}
+
+.footer-link {
+  color: #e16363;
+  font-family: 'Cedarville Cursive', cursive;
+  text-decoration: none;
+  margin: 10px 20px;
+  font-size: 25px;
+}
+
+a:hover {
+  color: #11999E;
+}
+
+.copyright {
+  color: #e16363;
+  font-size: 0.75REM;
+  padding-left: 20px 0px;
+}
