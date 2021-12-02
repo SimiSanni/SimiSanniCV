@@ -76,9 +76,13 @@ h2 {
   color: #40514E;
   width: 30%;
   margin:auto;
-  text-align:left;
+
 }
 
+.headline-base {
+  text-align: left;
+  
+   
 
 
 h3 {
